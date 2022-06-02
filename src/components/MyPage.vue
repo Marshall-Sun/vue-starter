@@ -1,7 +1,11 @@
 <template>
   <div id="main">
-    <div>785648924576</div>
-    <div>785648924576</div>
+    <div class="color-red">
+      785648924576
+    </div>
+    <div class="color-yellow my-5">
+      785648924576
+    </div>
     <div>785648924576</div>
     <div>
       785648924576
@@ -12,11 +16,6 @@
 
 <style scoped>
 #main {
-  height: 100vh;
-  background: white;
   overflow: auto;
-}
-div {
-  color: black;
 }
 </style>
