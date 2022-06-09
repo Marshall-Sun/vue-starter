@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "build": "vite build",
-    "dev": "vite --port 3333",
+    "dev": "vite --port 3333 --open",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "typecheck": "vue-tsc --noEmit",
@@ -17,21 +17,21 @@
   "devDependencies": {
     "@antfu/eslint-config": "^0.25.1",
     "@iconify-json/carbon": "^1.1.5",
-    "@types/node": "^17.0.38",
-    "@unocss/reset": "^0.37.4",
+    "@types/node": "^17.0.41",
+    "@unocss/reset": "^0.38.1",
     "@vitejs/plugin-vue": "^2.3.3",
     "@vue/test-utils": "^2.0.0",
     "eslint": "^8.17.0",
     "jsdom": "^19.0.0",
-    "pnpm": "^7.1.8",
+    "pnpm": "^7.1.9",
     "typescript": "^4.7.3",
-    "unocss": "^0.37.4",
+    "unocss": "^0.38.1",
     "unplugin-auto-import": "^0.8.6",
     "unplugin-vue-components": "^0.19.6",
-    "vite": "^2.9.9",
+    "vite": "^2.9.10",
     "vite-plugin-pages": "^0.23.0",
-    "vitest": "^0.13.1",
-    "vue-tsc": "^0.36.1"
+    "vitest": "^0.14.1",
+    "vue-tsc": "^0.37.3"
   },
   "eslintConfig": {
     "extends": "@antfu"

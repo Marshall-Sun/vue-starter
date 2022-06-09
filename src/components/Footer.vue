@@ -7,6 +7,13 @@
 
     <a
       class="icon-btn"
+      i-carbon-home
+      rel="noreferrer"
+      href="http://localhost:3333"
+    />
+
+    <a
+      class="icon-btn"
       i-carbon-logo-github
       rel="noreferrer"
       href="https://github.com/Marshall-Sun/vue-starter"
