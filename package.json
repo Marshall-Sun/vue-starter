@@ -30,7 +30,7 @@
     "unplugin-vue-components": "^0.19.6",
     "vite": "^2.9.10",
     "vite-plugin-pages": "^0.23.0",
-    "vitest": "^0.14.1",
+    "vitest": "^0.23.0",
     "vue-tsc": "^0.37.3"
   },
   "eslintConfig": {
